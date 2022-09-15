@@ -6,6 +6,7 @@
 }
 
 .navbar{
+    display: inline-flex;
     background: rgb(21, 18, 37);
     padding: 10px 10px 10px;
     position: fixed;
@@ -13,7 +14,7 @@
     left: 0;
     right: 0;
     z-index: 2;
-    display: inline-flex;
+    
 }
 #table{
     margin-top: 130px;
